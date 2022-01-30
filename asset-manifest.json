@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Freya/static/css/main.b497521a.css",
+    "main.js": "/Freya/static/js/main.a7d7a99d.js",
+    "static/media/shop-2.png": "/Freya/static/media/shop-2.f3905ea400c3e7e2748a.png",
+    "static/media/trendtoday.png": "/Freya/static/media/trendtoday.26fd41cf6147183403ac.png",
+    "static/media/herovideo.mp4": "/Freya/static/media/herovideo.aa923d121fdb833d18dc.mp4",
+    "static/media/shop-1.png": "/Freya/static/media/shop-1.dd346474181798c74aef.png",
+    "static/media/community-1.png": "/Freya/static/media/community-1.cad3f26b74f52b876d17.png",
+    "static/media/community-3.png": "/Freya/static/media/community-3.9277639bb840c33151b6.png",
+    "static/media/community-2.png": "/Freya/static/media/community-2.3527e538eacf98795595.png",
+    "static/media/GT-America-Extended-Medium.woff": "/Freya/static/media/GT-America-Extended-Medium.c2d79846e99683c556ee.woff",
+    "static/media/GT-America-Expanded-Light.woff": "/Freya/static/media/GT-America-Expanded-Light.f8db0426a512dcf6af05.woff",
+    "static/media/GT-America-Expanded-Thin.woff": "/Freya/static/media/GT-America-Expanded-Thin.8a5eb9ae1911f2fc8812.woff",
+    "static/media/GT-America-Light.woff": "/Freya/static/media/GT-America-Light.25d0d700a9e920ba1a7d.woff",
+    "static/media/GT-America-Regular.woff": "/Freya/static/media/GT-America-Regular.a8e36375e3905e2af156.woff",
+    "index.html": "/Freya/index.html",
+    "main.b497521a.css.map": "/Freya/static/css/main.b497521a.css.map",
+    "main.a7d7a99d.js.map": "/Freya/static/js/main.a7d7a99d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b497521a.css",
+    "static/js/main.a7d7a99d.js"
+  ]
+}
