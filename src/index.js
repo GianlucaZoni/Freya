@@ -1,13 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+import { BrowserRouter as Router } from 'react-router-dom';
 //import './index.css';
 
-ReactDOM.render(
+/*ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
+);*/
+
+ReactDOM.render(
+  <Router basename={process.env.PUBLIC_URL}>
+      <App />
+  </Router>
 );
 
 // If you want to start measuring performance in your app, pass a function
