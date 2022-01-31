@@ -2,7 +2,7 @@
   "name": "02-react-website-freya",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GianlucaZoni.github.io/Freya",
+  "homepage": "https://gianlucazoni.github.io/Freya",
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
     "@testing-library/jest-dom": "^5.16.1",
