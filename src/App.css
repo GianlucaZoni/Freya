@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "GT-America";
+  src: url("././fonts/GT-America/GT-America-Expanded-Light.woff") format('woff');
+  font-stretch: expanded;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "GT-America";
+  src: url("././fonts/GT-America/GT-America-Expanded-Thin.woff") format('woff');
+  font-stretch: expanded;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "GT-America";
+  src: url("././fonts/GT-America/GT-America-Extended-Medium.woff") format('woff');
+  font-stretch: semi-expanded;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "GT-America";
+  src: url("././fonts/GT-America/GT-America-Light.woff") format('woff');
+  font-stretch: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "GT-America";
+  src: url("././fonts/GT-America/GT-America-Regular.woff") format('woff');
+  font-stretch: normal;
+  font-weight: 400;
+}
+
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+  /* background: #cacad4; */
+  font-family: 'GT-America', sans-serif;
+  font-weight: 400;
+  font-stretch: normal;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
